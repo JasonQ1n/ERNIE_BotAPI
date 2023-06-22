@@ -14,7 +14,7 @@ enum class EOAChatRole:uint8
 };
 
 USTRUCT(BlueprintType)
-struct FChatLog
+struct FAnswer
 {
 	GENERATED_USTRUCT_BODY()
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "WXYY_API")
