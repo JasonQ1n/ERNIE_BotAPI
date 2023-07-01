@@ -1,6 +1,6 @@
 # UE5.11 文心一言 API
 
-这是文心大模型的API.
+这是文心大模型的API UE5 插件.
 
 ## [鉴权方法与 api 文档](https://cloud.baidu.com/doc/WENXINWORKSHOP/s/flfmc9do2)
 
