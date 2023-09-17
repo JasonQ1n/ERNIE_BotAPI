@@ -16,7 +16,7 @@
 
 ### 用法示例
 
-![用法](Resources\Example.png)
+![用法](Resources/Example.png)
 图示仅为方便节点说明，请根据具体需求使用。
 
 * 如有疑问请参考 [百度 API 文档](https://cloud.baidu.com/doc/WENXINWORKSHOP/s/flfmc9do2)
