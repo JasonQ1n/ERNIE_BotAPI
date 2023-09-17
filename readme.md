@@ -21,7 +21,7 @@
 
 * 如有疑问请参考 [百度 API 文档](https://cloud.baidu.com/doc/WENXINWORKSHOP/s/flfmc9do2)
 
-* 更好的修改请告诉我。
+* 有更好的修改请告诉我。
 * Email:<5120011@qq.com>
 
 [License](LICENSE)
